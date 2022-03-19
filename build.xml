@@ -1,4 +1,4 @@
-<project name="testProject" basedir=".">
+<project name="test" basedir=".">
 <property file="${basedir}/build.properties"/>
 <property name="dist" value="dist"/>
 <property name="build" value="build"/>
